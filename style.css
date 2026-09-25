@@ -45,6 +45,23 @@ body {
     background-color: #45416e;
 }
 
+/* Side Character Names */
+
+.side-name {
+    position: absolute;
+    top: 450px;
+    font-size: 45px;
+    text-align: center;
+    line-height: 1.2;
+}
+
+.left-name {
+    left: 50px;
+}
+
+.right-name {
+    right: 50px;
+}
 
 /* Welcome section */
 
