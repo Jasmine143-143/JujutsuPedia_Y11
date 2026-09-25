@@ -1,0 +1,108 @@
+/* Character Title ------------------------------------------- */
+
+.character-title {
+
+    text-align: center;
+
+    margin: 40px 0;
+
+}
+
+
+.character-title h2 {
+
+    color: #c45a6a;
+
+}
+
+
+.character-title h1 {
+
+    color: white;
+
+}
+
+
+/* Character Profile ----------------------------------------- */
+
+.character-profile {
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    width: 80%;
+
+    margin: 40px auto;
+
+    padding: 20px;
+
+    background-color: #111111;
+
+    border: 2px solid #4a1c25;
+
+}
+
+
+/* Character Image ------------------------------------------- */
+
+.character-image {
+
+    width: 35%;
+
+}
+
+
+.character-image img {
+
+    width: 100%;
+
+    height: 300px;
+
+    object-fit: cover;
+
+}
+
+
+/* Character Information ------------------------------------- */
+
+.character-info {
+
+    width: 50%;
+
+    margin-left: 50px;
+
+    padding: 25px;
+
+    background-color: #1d1719;
+
+}
+
+
+.character-info h2 {
+
+    color: #c45a6a;
+
+}
+
+
+.character-info p {
+
+    line-height: 1.6;
+
+}
+
+
+/* Profile Title --------------------------------------------- */
+
+.profile-title {
+
+    text-align: center;
+
+    margin: 50px 0;
+
+    color: #c45a6a;
+
+}
